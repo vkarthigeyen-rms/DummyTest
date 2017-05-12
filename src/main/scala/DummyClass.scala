@@ -3,6 +3,6 @@
   */
 class DummyClass {
 
-  def Check: Float = 100f
+  def Check: Float = 200f
 
 }
